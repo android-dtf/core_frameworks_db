@@ -1,0 +1,17 @@
+<Items>
+    <Item type="module"
+          name="frameworkdb"
+          version="1.2.0"
+          health="beta"
+          author="Jake Valletta (jakev)"
+          about="Create and manipulate a database containing Android framework data."
+          localName="frameworkdb" />
+
+    <Item type="library"
+          name="FrameworkDb"
+          about="Framework Database API"
+          version="1.0.0"
+          health="beta"
+          author="Jake Valletta (jakev)"
+          localName="FrameworkDb" />
+</Items>
